@@ -8,6 +8,6 @@ If you clone the project, don't forget to:
 
 to run your project in your laptop/PC
 
-Fetching API from : https://jsonplaceholder.typicode.com/posts
+Fetching API from : [JSON Placeholder](https://jsonplaceholder.typicode.com/posts)
 
 Happy fun. For learning purposes only.
