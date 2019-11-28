@@ -10,4 +10,4 @@ to run your project in your laptop/PC
 
 Fetching API from : [JSON Placeholder](https://jsonplaceholder.typicode.com/posts)
 
-Happy fun. For learning purposes only.
+For Fun and for learning purposes only.
